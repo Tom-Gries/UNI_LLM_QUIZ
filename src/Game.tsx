@@ -70,7 +70,10 @@ function Game() {
           gap: 4,
         }}
       >
-        <Typography variant="h5" textAlign="center">
+        <Typography
+          variant="h5"
+          sx={{ textAlign: "center" }}
+        >
           Text {currentIndex + 1} von {texts.length}
         </Typography>
 
@@ -91,8 +94,10 @@ function Game() {
         >
           <Typography
             variant="h6"
-            textAlign="center"
-            sx={{ whiteSpace: "pre-wrap" }}
+            sx={{
+              textAlign: "center",
+              whiteSpace: "pre-wrap",
+            }}
           >
             {currentText.text}
           </Typography>
