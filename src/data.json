@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "H Ich verbringe meine Freizeit am liebsten mit Wandern und Fotografieren. Besonders Sonnenuntergänge faszinieren mich.",
+    "source": "human"
+  },
+  {
+    "id": 2,
+    "text": "R Ich genieße es, komplexe Zusammenhänge verständlich zu erklären und passe meine Ausdrucksweise an mein Gegenüber an.",
+    "source": "robot"
+  },
+  {
+    "id": 3,
+    "text": "H Ich studiere Psychologie und arbeite nebenbei als Werkstudent in der Softwareentwicklung.",
+    "source": "human"
+  },
+  {
+    "id": 4,
+    "text": "R Ich interessiere mich für eine Vielzahl von Themen und lerne kontinuierlich aus neuen Informationen, um hilfreiche Antworten zu geben.",
+    "source": "robot"
+  },
+  {
+    "id": 5,
+    "text": "H Ohne Kaffee komme ich morgens nur schwer in die Gänge. Dafür bin ich abends meistens noch lange wach.",
+    "source": "human"
+  },
+  {
+    "id": 6,
+    "text": "R Ich versuche, Informationen möglichst objektiv zu betrachten und unterschiedliche Perspektiven in meine Antworten einzubeziehen.",
+    "source": "robot"
+  }
+]
