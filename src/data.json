@@ -1,32 +1,62 @@
 [
   {
     "id": 1,
-    "text": "H Ich verbringe meine Freizeit am liebsten mit Wandern und Fotografieren. Besonders Sonnenuntergänge faszinieren mich.",
-    "source": "human"
+    "text": "I once tried to keep a houseplant alive by giving it motivational speeches. Ever since then, I've trusted watering cans more than my powers of persuasion. I still firmly believe that socks start a secret conspiracy the moment they enter the washing machine.",
+    "source": "robot"
   },
   {
     "id": 2,
-    "text": "R Ich genieße es, komplexe Zusammenhänge verständlich zu erklären und passe meine Ausdrucksweise an mein Gegenüber an.",
+    "text": "My greatest talent is getting hungry the second I'm already in bed. I regularly argue with my GPS, even though it's been right every single time. If life is a video game, I definitely chose the difficulty setting chaotic but entertaining.",
     "source": "robot"
   },
   {
     "id": 3,
-    "text": "H Ich studiere Psychologie und arbeite nebenbei als Werkstudent in der Softwareentwicklung.",
-    "source": "human"
+    "text": "I'm the kind of person who comes up with three new questions for every answer. Almost anything fascinates me as long as I can learn something new or help someone else. My friends sometimes say I have a story or explanation for just about every topic—and honestly, they're probably right.",
+    "source": "robot"
   },
   {
     "id": 4,
-    "text": "R Ich interessiere mich für eine Vielzahl von Themen und lerne kontinuierlich aus neuen Informationen, um hilfreiche Antworten zu geben.",
+    "text": "I enjoy spending time with the people who matter most to me, and I appreciate the little gestures in everyday life. Creative projects and long conversations give me new energy.",
     "source": "robot"
   },
   {
     "id": 5,
-    "text": "H Ohne Kaffee komme ich morgens nur schwer in die Gänge. Dafür bin ich abends meistens noch lange wach.",
-    "source": "human"
+    "text": "I spend most of my free time playing sports or working on hands-on projects. I enjoy solving practical problems and taking on new challenges.",
+    "source": "robot"
   },
   {
     "id": 6,
-    "text": "R Ich versuche, Informationen möglichst objektiv zu betrachten und unterschiedliche Perspektiven in meine Antworten einzubeziehen.",
+    "text": "I'm naturally curious about people and love conversations that make you lose track of time. Being honest matters more to me than trying to seem perfect, and I can laugh at myself just as easily as I laugh at a good joke. I feel most at home around people who are kind, ask thoughtful questions, and enjoy discovering new things together.",
     "source": "robot"
+  },
+  {
+    "id": 7,
+    "text": "I like creating things. Whether it's pictures, furniture, plants, or order. When I want to rest, it helps me to be in an environment where no tasks are waiting. I like structures that are kept. I like the feeling of Cosma's fur on my face. I enjoy being in silence.",
+    "source": "human"
+  },
+  {
+    "id": 8,
+    "text": "I like swimming, and I enjoy going to the sauna. My life is going really well right now, and it's heading in the right direction! I'm a human, and I'm wondering what I should write here to convince you that I really am one.",
+    "source": "human"
+  },
+  {
+    "id": 9,
+    "text": "My major is earth and environmental science. I’m a go-ahead person, because I like to act independently and quite stubborn. These days, my hobby is watching Youtube. Especially I like to see v-log because v-log makes me get vicarious satisfaction.",
+    "source": "human"
+  },
+  {
+    "id": 10,
+    "text": "Sören is of average height with long hair; he’s often a bit depressed but motivated and funny. He enjoys playing D&D and video games from time to time, and he likes gardening and roses. He wonders why he has to write this and, at the same time, why interpersonal relationships are so strange.",
+    "source": "human"
+  },
+  {
+    "id": 11,
+    "text": "I'm an undergraduate and interested in studying economics. I try not to define someone easily only from my point of view or be prejudiced. I am currently taking classes during the summer session, but I'm trying to have free time and enjoy my vacation also. My goal for this vacation is to increase my physical strength, so I run three times a week these days.",
+    "source": "human"
+  },
+  {
+    "id": 12,
+    "text": "I was born in Busan and went to university in Seoul, but I still want to live in Busan I love something as pure as an animal or a baby I like plain bread and sour crops, and I prefer the combination of the two",
+    "source": "human"
   }
 ]
